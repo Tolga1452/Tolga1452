@@ -4,6 +4,6 @@
 <br>
 <img alt="Discord" src="https://img.shields.io/discord/834522154153541642?label=Discord">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Tolga1452&show_icons=true&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api?username=Tolga1452&show_icons=true&theme=tokyonight">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolga1452&layout=compact&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolga1452&layout=compact&theme=tokyonight">
