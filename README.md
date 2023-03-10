@@ -5,3 +5,4 @@
 <div><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolga1452&show_icons=true&theme=radical"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolga1452&layout=compact&theme=radical"></div>
 
 ### Share your projects with everyone: https://discord.gg/JKUzkAdSCA (Our Official Project Server in Discord)
+<a rel="me" href="https://mastodon.social/@tolgchu">Mastodon</a>
