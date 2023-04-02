@@ -1,8 +1,8 @@
-# ✨Tolgchu✨ <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Tolga1452?label=Followers"> <img alt="Discord Server" src="https://img.shields.io/discord/834522154153541642?label=Discord Server"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCnG9fe6RdQSIvO98475CNOw"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCnG9fe6RdQSIvO98475CNOw"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Tolgchu">
-<br>
-<div><img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25px" height="25px"> <img alt="CSharp" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="25px" height="25px"> <img alt="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="25px" height="25px"> <img alt="Node.js" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width="25px" height="25px"> <img alt="React" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" width="25px" height="25px"> <img alt="Typescript" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="25px" height="25px"> </div>
-<br>
-<div><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolga1452&show_icons=true&theme=radical"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolga1452&layout=compact&theme=radical"></div>
+[![Meow! I'm a programmer cat 😸](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Meow!+I'm+a+programmer+cat+%F0%9F%98%B8)](https://git.io/typing-svg)
 
-### Share your projects with everyone: https://discord.gg/JKUzkAdSCA (Our Official Project Server in Discord)
-<a rel="me" href="https://mastodon.social/@tolgchu">Mastodon</a>
+![GitHub Overview](https://raw.githubusercontent.com/Tolga1452/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Languages](https://raw.githubusercontent.com/Tolga1452/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+### Credits
+- [Typing Text](https://github.com/DenverCoder1/readme-typing-svg)
+- [GitHub Stats](https://github.com/jstrieb/github-stats)
